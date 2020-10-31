@@ -1,18 +1,10 @@
 # Online DevOps Dojo  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
-[![Javascript linter](../../workflows/Javascript%20linter/badge.svg)](../../actions?query=workflow%3A%22Javascript+linter%22)
-[![Check links in markdown](../../workflows/Check%20links%20in%20markdown/badge.svg)](../../actions?query=workflow%3A%22Check+links+in+markdown%22)
-[![Deployment of Online DevOps Dojo coach lambda](../../workflows/Deployment%20of%20Online%20DevOps%20Dojo%20coach%20lambda/badge.svg)](../../actions?query=workflow%3A%22Deployment+of+Online+DevOps+Dojo+coach+lambda%22)
-
 This repository contains the sources of the **[Online DevOps Dojo](https://dxc-technology.github.io/about-devops-dojo/)**
 Katacoda Scenarios and the coach robot.
 
-If you are landing here and just want to get going with the training, please
+If you just want to get going with the original source of training, please
 go to [about the DevOps Dojo](https://dxc-technology.github.io/about-devops-dojo/).
-
-## Changelog
-
-See a [history of the changes](CHANGELOG.md) to the **Online DevOps Dojo**.
 
 ## Files description
 
